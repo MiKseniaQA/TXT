@@ -1,0 +1,5 @@
+movie: Pretty_woman 
+serial: Friends
+meal: Pizza
+season: Autumn 
+country: Greece
