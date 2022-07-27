@@ -1,0 +1,5 @@
+name: Ksenia 
+surname: Mihnevich
+age: 38 
+num_pets: 0 
+fut_sal: 550
