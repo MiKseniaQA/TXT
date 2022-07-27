@@ -1,1 +1,14 @@
-
+Bug_id: 111
+Title: Send Email button return options not related to sending Email
+ 
+     Severity: Minor
+     Priority: Low
+     Environment: Xiaomi Readme Note 7 Pro Android 11
+    
+     Precondition: Installed the app on the device
+      STR:
+         1. Open the APP;
+         2. Tap “Send Email” button
+        
+     AR: App return different links not related to sending email,
+     ER: App return  links related to sending email
